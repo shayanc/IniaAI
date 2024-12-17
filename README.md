@@ -23,5 +23,7 @@ This project contains a **React frontend** and a **.NET Core API backend**.
    - Visual Studio starts both the API and React app simultaneously.
 
 ### Accessing the Application
-**Client URL**: https://localhost:5173/
-**API Swagger Page**: https://localhost:7180/swagger/index.html
+- **Client URL**: https://localhost:5173/
+- **API Swagger Page**: https://localhost:7180/swagger/index.html
+
+### Task definition outlined in file `Task Inia AI.pdf`
